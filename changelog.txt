@@ -1,0 +1,4 @@
+--> PS3 Popup bei Verbindung
+--> Piepton (Buzzer) aktiviert
+--> Neues Design für den Header
+--> Fehler bei PS3MAPI behoben

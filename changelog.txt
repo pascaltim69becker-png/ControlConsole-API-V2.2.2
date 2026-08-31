@@ -1,1 +1,1 @@
-Added - Update Button wurde unter PS3 Verbinden hinzugefügt
+[BUG FIXED] beschreibung und Fehler wurden agnepasst und behoben

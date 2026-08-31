@@ -1,1 +1,3 @@
 [BUG FIXED] beschreibung und Fehler wurden agnepasst und behoben
+[ADDED] beschreibung hinzugefügt mit Link Version Name Idee von EvILLCFW
+[BUG FIXED] schreibfehler korrektur

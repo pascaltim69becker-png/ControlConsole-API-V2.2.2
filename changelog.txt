@@ -1,4 +1,6 @@
-UPDATE 2.3
+UPDATE 2.3.1
 [ADDED] UI Anpasssung
 [ADDED] DESIGN Anpassung 
 [ADDED] Design Anpassung des komplleten APP Design
+[ADDED] Sprachauswahl
+[BUG FIXES] ein Fehler wurde behoben was dazu das alte design überlappt war

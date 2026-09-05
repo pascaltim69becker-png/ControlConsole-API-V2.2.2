@@ -1,1 +1,1 @@
-UPDATE Verfügbar Version 2.3.3
+UPDATE Verfügbar Version 2.3.2

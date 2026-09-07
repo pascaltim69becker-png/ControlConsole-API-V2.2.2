@@ -1,12 +1,15 @@
-UPDATE Information v2.3.3
+UPDATE Information v4.0
 Dieses Update konzentriert sich auf die Verbesserung der App-Stabilität, Ressourceneffizienz und die Behebung technischer Warnungen.
 
-🛠 Fehlerbehebungen (Fixes)
-• Absturzursachen behoben: Sicherheitsabfragen beim Prüfen auf Updates hinzugefügt, um Abstürze durch fehlende Versionsinfos zu verhindern.
-• Robustes Parsing: Die Verarbeitung von Konsolen-Daten (Temperaturen) wurde verbessert, um auch bei unerwarteten Antworten der PS3 stabil zu bleiben.
-• Thread-Sicherheit: Ein Fehler im Hintergrundprozess der Update-Prüfung wurde behoben.
+🚀 Neue Funktionen
+Automatisches Verbinden: Die App kann sich nun beim Start sofort mit der PS3 verbinden.
+• Auto-Connect Schalter: In den Einstellungen (neben "PS3 Verbindung") kann das Feature jederzeit aktiviert oder deaktiviert werden.
+• Intelligente UI: Wenn "Autom. Verbinden" aktiv ist, wird der Verbinden-Button automatisch gesperrt (ausgegraut), um doppelte Anfragen zu vermeiden.
 
-🚀 Optimierungen & Verbesserungen
-• Akku- & Ressourcen-Management: Die App pausiert jetzt automatisch das Abfragen der Temperaturen, wenn sie im Hintergrund ist, und spart so Akku.
-• Netzwerk-Stabilität: Das "Live"-Intervall wurde optimiert. Bei langsamen Verbindungen wartet die App nun aktiv auf die vorherige Antwort, bevor eine neue Anfrage gesendet wird (verhindert Hänger).
-• Modernisierung: Die Sprachumschaltung und das Datei-Management wurden auf den aktuellen Android-Standard aktualisiert.
+🛠 Verbesserungen & Hybrid-Modus
+webMAN MOD Integration: Die App nutzt jetzt im Hintergrund webMAN MOD, um die Firmware-Version und Temperaturen (CPU/RSX) noch präziser auszulesen, selbst wenn man über CCAPI verbunden ist.
+• Optimierte Startzeit: Der App-Start wurde beschleunigt, um die automatische Verbindung verzögerungsfrei einzuleiten.
+
+🛡 Stabilität
+Layout-Fixes: Die Benutzeroberfläche wurde für verschiedene Bildschirmgrößen optimiert.
+• Speicher-Management: Die Auto-Connect-Einstellung wird dauerhaft und sicher auf dem Gerät gespeichert.

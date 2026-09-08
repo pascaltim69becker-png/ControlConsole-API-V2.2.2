@@ -1,15 +1,38 @@
-UPDATE Information v4.0
-Dieses Update konzentriert sich auf die Verbesserung der App-Stabilität, Ressourceneffizienz und die Behebung technischer Warnungen.
+[GERMAN]
+UPDATE Information v4.1
+Dieses Update bringt die App auf ein neues Level der Benutzerfreundlichkeit. Wir haben das Design-System perfektioniert und die Steuerung der PS3-Funktionen deutlich verbessert.
 
-🚀 Neue Funktionen
-Automatisches Verbinden: Die App kann sich nun beim Start sofort mit der PS3 verbinden.
-• Auto-Connect Schalter: In den Einstellungen (neben "PS3 Verbindung") kann das Feature jederzeit aktiviert oder deaktiviert werden.
-• Intelligente UI: Wenn "Autom. Verbinden" aktiv ist, wird der Verbinden-Button automatisch gesperrt (ausgegraut), um doppelte Anfragen zu vermeiden.
+🛠 Bug Fixes (Fehlerbehebungen)
+• Icon-Korrektur: Das App-Icon auf dem Homescreen ist wieder im klassischen Rot (Fix für das Problem mit dem "schwarzen Icon").
+• Scrollbarer Changelog: Das Update-Fenster hat nun eine Scroll-Funktion. Auch lange Beschreibungen können jetzt vollständig gelesen werden, ohne dass die Buttons (Download/Später) verschwinden.
+• Power-Aktion Fix: Fehlermeldungen beim Ausschalten oder Neustarten der PS3 wurden entfernt (die App erkennt nun, dass die Verbindung durch die Konsole getrennt wurde).
+• LED-Logik: Die Auswahl für den LED-Status (Blinken/Ein/Aus) wird jetzt korrekt gesperrt, wenn "Keine Aktion" bei der Farbe gewählt wurde.
+• Theme-Synchronisation: Der "SPÄTER"-Button im Update-Menü passt sich jetzt ebenfalls an das gewählte Farb-Thema an.
 
-🛠 Verbesserungen & Hybrid-Modus
-webMAN MOD Integration: Die App nutzt jetzt im Hintergrund webMAN MOD, um die Firmware-Version und Temperaturen (CPU/RSX) noch präziser auszulesen, selbst wenn man über CCAPI verbunden ist.
-• Optimierte Startzeit: Der App-Start wurde beschleunigt, um die automatische Verbindung verzögerungsfrei einzuleiten.
+🚀 Neue Funktionen & Verbesserungen
+• Verbesserte Lüftersteuerung: Der Lüfter (webMAN) reagiert jetzt sofort beim Auswählen einer Prozentzahl (kein extra "Senden" mehr nötig).
+• Erweitertes Theme-Menü:
+• Buttons im Menü zeigen jetzt eine Vorschau der Farbe (farbige Umrandung).
+• Der Haupt-Button zeigt jetzt den Namen des aktiven Themes an (z.B. THEMA: BLAU).
+• Zusatzfunktionen (Stern-System): Neue oder experimentelle Features sind jetzt mit einem * markiert. Ein Klick auf den großen Stern am Theme-Button zeigt nun eine Info-Erklärung an.
+• Hybrid-Branding: Das PS3-Schild-Logo innerhalb der App leuchtet nun passend zum gewählten Farb-Thema.
 
-🛡 Stabilität
-Layout-Fixes: Die Benutzeroberfläche wurde für verschiedene Bildschirmgrößen optimiert.
-• Speicher-Management: Die Auto-Connect-Einstellung wird dauerhaft und sicher auf dem Gerät gespeichert.
+[ENGLISH]
+UPDATE Information v4.1
+This update elevates the app with a perfected design system and significantly improved PS3 function controls.
+
+🛠 Bug Fixes
+• Icon Fix: Restored the classic Red app icon on the homescreen (resolves the "black icon" issue).
+• Scrollable Changelog: The update dialog now features a scrollable text area. Long changelogs can be read fully without hiding the action buttons.
+• Power Action Fix: Removed annoying error messages during Shutdown/Reboot (the app now gracefully handles the connection drop).
+• LED Logic: The LED status selector is now disabled and greyed out when "No Action" is selected for the color.
+• Theme Sync: The "LATER" button in the update dialog now correctly follows the selected color theme.
+
+🚀 New Features & Improvements
+•
+Immediate Fan Control: Fan speed (webMAN) now executes instantly upon selecting a percentage (no manual "Send" required).
+• Enhanced Theme Menu:
+• Selection buttons now feature color previews (colored borders).
+• The main theme button now displays the active theme name (e.g., THEME: BLUE).
+• Extra Features (Star System): New or experimental features are now marked with a *. Tapping the large star icon provides an information popup.
+• Dynamic Branding: The PS3 shield logo inside the app now dynamically changes color to match your selected theme.

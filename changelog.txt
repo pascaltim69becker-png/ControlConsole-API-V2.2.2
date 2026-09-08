@@ -1,5 +1,5 @@
 [GERMAN]
-UPDATE Information v4.1
+UPDATE Information v4.2
 Dieses Update bringt die App auf ein neues Level der Benutzerfreundlichkeit. Wir haben das Design-System perfektioniert und die Steuerung der PS3-Funktionen deutlich verbessert.
 
 🛠 Bug Fixes (Fehlerbehebungen)
@@ -18,7 +18,7 @@ Dieses Update bringt die App auf ein neues Level der Benutzerfreundlichkeit. Wir
 • Hybrid-Branding: Das PS3-Schild-Logo innerhalb der App leuchtet nun passend zum gewählten Farb-Thema.
 
 [ENGLISH]
-UPDATE Information v4.1
+UPDATE Information v4.2
 This update elevates the app with a perfected design system and significantly improved PS3 function controls.
 
 🛠 Bug Fixes

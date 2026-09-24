@@ -1,38 +1,14 @@
-[GERMAN]
-UPDATE Information v4.2
-Dieses Update bringt die App auf ein neues Level der Benutzerfreundlichkeit. Wir haben das Design-System perfektioniert und die Steuerung der PS3-Funktionen deutlich verbessert.
 
-🛠 Bug Fixes (Fehlerbehebungen)
-• Icon-Korrektur: Das App-Icon auf dem Homescreen ist wieder im klassischen Rot (Fix für das Problem mit dem "schwarzen Icon").
-• Scrollbarer Changelog: Das Update-Fenster hat nun eine Scroll-Funktion. Auch lange Beschreibungen können jetzt vollständig gelesen werden, ohne dass die Buttons (Download/Später) verschwinden.
-• Power-Aktion Fix: Fehlermeldungen beim Ausschalten oder Neustarten der PS3 wurden entfernt (die App erkennt nun, dass die Verbindung durch die Konsole getrennt wurde).
-• LED-Logik: Die Auswahl für den LED-Status (Blinken/Ein/Aus) wird jetzt korrekt gesperrt, wenn "Keine Aktion" bei der Farbe gewählt wurde.
-• Theme-Synchronisation: Der "SPÄTER"-Button im Update-Menü passt sich jetzt ebenfalls an das gewählte Farb-Thema an.
+🚀 Changelog – Update v4.3
 
-🚀 Neue Funktionen & Verbesserungen
-• Verbesserte Lüftersteuerung: Der Lüfter (webMAN) reagiert jetzt sofort beim Auswählen einer Prozentzahl (kein extra "Senden" mehr nötig).
-• Erweitertes Theme-Menü:
-• Buttons im Menü zeigen jetzt eine Vorschau der Farbe (farbige Umrandung).
-• Der Haupt-Button zeigt jetzt den Namen des aktiven Themes an (z.B. THEMA: BLAU).
-• Zusatzfunktionen (Stern-System): Neue oder experimentelle Features sind jetzt mit einem * markiert. Ein Klick auf den großen Stern am Theme-Button zeigt nun eine Info-Erklärung an.
-• Hybrid-Branding: Das PS3-Schild-Logo innerhalb der App leuchtet nun passend zum gewählten Farb-Thema.
+✨ Was ist neu? (New Features)
+* **Eigene Farbanpassung (Custom Color Picker):** Du kannst jetzt unter *Farb Thema* deine ganz eigene Wunschfarbe erstellen! Dafür stehen dir präzise **RGB-Schieberegler**, eine **Hex-Farbcode-Eingabe** sowie praktische **Schnellwahl-Farbchips** (Orange, Cyan, Lime, Lila, Pink, Gold) zur Verfügung.
+* **Neuer Discord-Button:** Der Direkteinklang zum Discord-Server wurde modernisiert. Der Button wurde direkt neben den *Farb Thema*-Button gesetzt, enthält das offizielle **Discord-Logo** und kommt ohne störende Emojis aus.
+* **Vollständiges Dynamisches Theming:** Die gesamte App passt sich nun nahtlos und in Echtzeit an jedes Theme (Standard-Rot, Blau, Grün, Gelb, Lila, Pink, Weiß sowie deine eigene Custom-Farbe) an.
 
-[ENGLISH]
-UPDATE Information v4.2
-This update elevates the app with a perfected design system and significantly improved PS3 function controls.
-
-🛠 Bug Fixes
-• Icon Fix: Restored the classic Red app icon on the homescreen (resolves the "black icon" issue).
-• Scrollable Changelog: The update dialog now features a scrollable text area. Long changelogs can be read fully without hiding the action buttons.
-• Power Action Fix: Removed annoying error messages during Shutdown/Reboot (the app now gracefully handles the connection drop).
-• LED Logic: The LED status selector is now disabled and greyed out when "No Action" is selected for the color.
-• Theme Sync: The "LATER" button in the update dialog now correctly follows the selected color theme.
-
-🚀 New Features & Improvements
-•
-Immediate Fan Control: Fan speed (webMAN) now executes instantly upon selecting a percentage (no manual "Send" required).
-• Enhanced Theme Menu:
-• Selection buttons now feature color previews (colored borders).
-• The main theme button now displays the active theme name (e.g., THEME: BLUE).
-• Extra Features (Star System): New or experimental features are now marked with a *. Tapping the large star icon provides an information popup.
-• Dynamic Branding: The PS3 shield logo inside the app now dynamically changes color to match your selected theme.
+🛠️ Bug Fixes & Verbesserungen
+* **PS3-Logo Korrektur:** Das Logo zeigt sich nun wieder gestochen scharf in Vektorqualität, ohne störende farbige Hintergrund-Vierecke oder Block-Überlagerungen.
+* **Thema-Button Design-Fix:** Der Button mit der Anzeige des aktuellen Themas (*"THEMA: [...]"*) hat keinen flächigen Farbblock mehr, sondern ist sauber transparent mit farbig hervorgehobenem Text.
+* **CCAPI & PS3MAPI Rahmen-Fix:** Die Ränder der Modus-Auswahlknöpfe (CCAPI / PS3MAPI) blieben früher bei manchen Themes rot – diese übernehmen nun ebenfalls fehlerfrei die aktive Akzentfarbe.
+* **Theme-Dialog Farbnamen:** Im Farb-Auswahlmenü behalten die voreingestellten Themennamen (*Standard Rot, Blau, Grün, Gelb, Lila, Pink, Weiß*) nun stets ihre korrekten Originalfarben bei.
+* **Allgemeine Stabilität:** Diverse UI-Optimierungen und Leistungsverbesserungen für ein flüssigeres Erlebnis.

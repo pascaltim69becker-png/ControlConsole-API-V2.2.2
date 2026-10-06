@@ -1,5 +1,5 @@
 
-🚀 Changelog – Update v4.3
+🚀 Changelog – Update v4.4
 
 ✨ Was ist neu? (New Features)
 * **Eigene Farbanpassung (Custom Color Picker):** Du kannst jetzt unter *Farb Thema* deine ganz eigene Wunschfarbe erstellen! Dafür stehen dir präzise **RGB-Schieberegler**, eine **Hex-Farbcode-Eingabe** sowie praktische **Schnellwahl-Farbchips** (Orange, Cyan, Lime, Lila, Pink, Gold) zur Verfügung.
@@ -12,3 +12,5 @@
 * **CCAPI & PS3MAPI Rahmen-Fix:** Die Ränder der Modus-Auswahlknöpfe (CCAPI / PS3MAPI) blieben früher bei manchen Themes rot – diese übernehmen nun ebenfalls fehlerfrei die aktive Akzentfarbe.
 * **Theme-Dialog Farbnamen:** Im Farb-Auswahlmenü behalten die voreingestellten Themennamen (*Standard Rot, Blau, Grün, Gelb, Lila, Pink, Weiß*) nun stets ihre korrekten Originalfarben bei.
 * **Allgemeine Stabilität:** Diverse UI-Optimierungen und Leistungsverbesserungen für ein flüssigeres Erlebnis.
+
+* ** Scrolltext wurde hnzugefügt unter der Version anzeige.

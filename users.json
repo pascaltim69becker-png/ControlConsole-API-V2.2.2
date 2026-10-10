@@ -1,4 +1,4 @@
 {
-  "app_shutdown": false,
+  "app_shutdown": true,
   "shutdown_message": "Die App ist zurzeit vom Entwickler abgeschaltet worden."
 }

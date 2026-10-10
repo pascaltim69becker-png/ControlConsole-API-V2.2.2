@@ -1,5 +1,4 @@
 {
-  "forced_names": {
-    "HURENSOHN": "DEX-_-MoDz"
-  }
+  "app_shutdown": true,
+  "shutdown_message": "Die App ist zurzeit vom Entwickler abgeschaltet worden."
 }

@@ -1,16 +1,35 @@
 
-🚀 Changelog – Update v4.4.1
+🚀 Changelog – Update v4.5
 
-✨ Was ist neu? (New Features)
-* **Eigene Farbanpassung (Custom Color Picker):** Du kannst jetzt unter *Farb Thema* deine ganz eigene Wunschfarbe erstellen! Dafür stehen dir präzise **RGB-Schieberegler**, eine **Hex-Farbcode-Eingabe** sowie praktische **Schnellwahl-Farbchips** (Orange, Cyan, Lime, Lila, Pink, Gold) zur Verfügung.
-* **Neuer Discord-Button:** Der Direkteinklang zum Discord-Server wurde modernisiert. Der Button wurde direkt neben den *Farb Thema*-Button gesetzt, enthält das offizielle **Discord-Logo** und kommt ohne störende Emojis aus.
-* **Vollständiges Dynamisches Theming:** Die gesamte App passt sich nun nahtlos und in Echtzeit an jedes Theme (Standard-Rot, Blau, Grün, Gelb, Lila, Pink, Weiß sowie deine eigene Custom-Farbe) an.
+🇪 DEUTSCH (DE)
+Hinweis & Changelog
+Version 4.5 (Final Release)
+Created by: DEX MoDz | Baujahr: 2026
+NEUERUNGEN IN VERSION 4.5:
+• Matrix Hacker Animation: Dynamische Binärcode-Animation (100110...) im Hintergrund – die Farbe passt sich automatisch dem gewählten Theme bzw. deiner Custom-Farbe an!
+• Animierte Dialoge: Neue Aufplopp- & Pulsier-Animation für das Kreuz im Shutdown-Fenster sowie eine Schließ-Animation für das Schloss im Banned-Fenster.
+• Live GitHub Synchronisation: Zuverlässige Abfrage von App-Shutdown (app_shutdown) & Hardware-Sperren direkt von GitHub beim App-Start.
+• Komplette Mehrsprachigkeit: Volle Übersetzung für Deutsch (DE), Englisch (EN) und Französisch (FR) auf allen Menüs, Dialogen & Buttons.
+• Stabilitäts- & Bugfixes: Behebung potenzieller Abstürze (NullPointer-Schutz) und Performance-Optimierungen.
 
-🛠️ Bug Fixes & Verbesserungen
-* **PS3-Logo Korrektur:** Das Logo zeigt sich nun wieder gestochen scharf in Vektorqualität, ohne störende farbige Hintergrund-Vierecke oder Block-Überlagerungen.
-* **Thema-Button Design-Fix:** Der Button mit der Anzeige des aktuellen Themas (*"THEMA: [...]"*) hat keinen flächigen Farbblock mehr, sondern ist sauber transparent mit farbig hervorgehobenem Text.
-* **CCAPI & PS3MAPI Rahmen-Fix:** Die Ränder der Modus-Auswahlknöpfe (CCAPI / PS3MAPI) blieben früher bei manchen Themes rot – diese übernehmen nun ebenfalls fehlerfrei die aktive Akzentfarbe.
-* **Theme-Dialog Farbnamen:** Im Farb-Auswahlmenü behalten die voreingestellten Themennamen (*Standard Rot, Blau, Grün, Gelb, Lila, Pink, Weiß*) nun stets ihre korrekten Originalfarben bei.
-* **Allgemeine Stabilität:** Diverse UI-Optimierungen und Leistungsverbesserungen für ein flüssigeres Erlebnis.
+🇬🇧 ENGLISCH (EN)
+Note & Changelog
+Version 4.5 (Final Release)
+Created by: DEX MoDz | Year: 2026
+WHAT'S NEW IN VERSION 4.5:
+• Matrix Hacker Animation: Dynamic binary rain background animation (100110...) that automatically matches your chosen theme color.
+• Animated Dialogs: Smooth pop-in & pulse animation for the shutdown icon, plus snap-lock closing animation for the banned window.
+• Live GitHub Sync: Instant shutdown & ban verification on startup.
+• Full Multi-Language Support: Complete localization for German (DE), English (EN), and French (FR) across all menus, dialogs & buttons.
+• Stability & Bugfixes: Prevented crashes and improved theme performance.
 
-* ** Scrolltext wurde hnzugefügt unter der Version anzeige.
+🇫🇷 FRANZÖSISCH (FR)
+Remarque & Changelog
+Version 4.5 (Version Finale)
+Créé par : DEX MoDz | Année : 2026
+NOUVEAUTÉS DE LA VERSION 4.5 :
+• Animation Matrix Hacker : Pluie binaire dynamique en arrière-plan (100110...) s'adaptant automatiquement à la couleur de votre thème.
+• Dialogues Animés : Effet de pulsation fluide pour l'icône de fermeture et animation de fermeture pour le cadenas de bannissement.
+• Synchro GitHub en Direct : Vérification instantanée des arrêts & bannissements au démarrage.
+• Support Multilingue Complet : Traduction intégrale en allemand (DE), anglais (EN) et français (FR) sur tous les menus, dialogues & boutons.
+• Corrections de bugs & Stabilité : Amélioration des performances et prévention des plantages.

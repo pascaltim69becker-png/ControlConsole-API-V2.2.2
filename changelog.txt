@@ -1,35 +1,20 @@
+ ControlConsole API – Version 5.0 Changelog
 
-🚀 Changelog – Update v4.5
+🎬 1. Standalone 10-Sekunden 3D Intro
+• Tiefschwarzes Intro: Startet beim Öffnen der App direkt vor dem Hauptbildschirm.
 
-🇪 DEUTSCH (DE)
-Hinweis & Changelog
-Version 4.5 (Final Release)
-Created by: DEX MoDz | Baujahr: 2026
-NEUERUNGEN IN VERSION 4.5:
-• Matrix Hacker Animation: Dynamische Binärcode-Animation (100110...) im Hintergrund – die Farbe passt sich automatisch dem gewählten Theme bzw. deiner Custom-Farbe an!
-• Animierte Dialoge: Neue Aufplopp- & Pulsier-Animation für das Kreuz im Shutdown-Fenster sowie eine Schließ-Animation für das Schloss im Banned-Fenster.
-• Live GitHub Synchronisation: Zuverlässige Abfrage von App-Shutdown (app_shutdown) & Hardware-Sperren direkt von GitHub beim App-Start.
-• Komplette Mehrsprachigkeit: Volle Übersetzung für Deutsch (DE), Englisch (EN) und Französisch (FR) auf allen Menüs, Dialogen & Buttons.
-• Stabilitäts- & Bugfixes: Behebung potenzieller Abstürze (NullPointer-Schutz) und Performance-Optimierungen.
-
-🇬🇧 ENGLISCH (EN)
-Note & Changelog
-Version 4.5 (Final Release)
-Created by: DEX MoDz | Year: 2026
-WHAT'S NEW IN VERSION 4.5:
-• Matrix Hacker Animation: Dynamic binary rain background animation (100110...) that automatically matches your chosen theme color.
-• Animated Dialogs: Smooth pop-in & pulse animation for the shutdown icon, plus snap-lock closing animation for the banned window.
-• Live GitHub Sync: Instant shutdown & ban verification on startup.
-• Full Multi-Language Support: Complete localization for German (DE), English (EN), and French (FR) across all menus, dialogs & buttons.
-• Stability & Bugfixes: Prevented crashes and improved theme performance.
-
-🇫🇷 FRANZÖSISCH (FR)
-Remarque & Changelog
-Version 4.5 (Version Finale)
-Créé par : DEX MoDz | Année : 2026
-NOUVEAUTÉS DE LA VERSION 4.5 :
-• Animation Matrix Hacker : Pluie binaire dynamique en arrière-plan (100110...) s'adaptant automatiquement à la couleur de votre thème.
-• Dialogues Animés : Effet de pulsation fluide pour l'icône de fermeture et animation de fermeture pour le cadenas de bannissement.
-• Synchro GitHub en Direct : Vérification instantanée des arrêts & bannissements au démarrage.
-• Support Multilingue Complet : Traduction intégrale en allemand (DE), anglais (EN) et français (FR) sur tous les menus, dialogues & boutons.
-• Corrections de bugs & Stabilité : Amélioration des performances et prévention des plantages.
+📜 2. Intelligentes Update-Fenster (Einmalig pro Version)
+• Scrollbares Fenster: Zeigt alle neuen Features im tiefschwarzen Design (#000000) mit leuchtend rotem Neon-Rand.
+• Einmalige Anzeige: Nach dem Bestätigen mit „VERSTANDEN & STARTEN“ wird das Fenster abgespeichert und erscheint erst wieder, wenn ein neues Update (z. B. Version 5.1) installiert wird.
+🎵 3. Eigene YouTube Hintergrundmusik & Cyber Click Sounds
+• YouTube Hintergrundmusik: Dein Song (Adrenaline Rush Call of Duty: Black Ops 7 Main Theme) ist fest als bg_music.mp3 integriert und läuft in Dauerschleife im Hauptmenü.
+• Cyber Click Sound: Beim Antippen von Buttons ertönt ein hochmoderner Cyber-Klicksound.
+🖤 4. Tiefschwarzes 3D Cyberpunk Design (Black Buttons)
+• Schwarze Buttons & Cards (#000000): Alle Buttons, Eingabefelder und Cards besitzen tiefschwarze Hintergründe mit leuchtenden 2dp Neon-Rändern.
+• 3D Schwebe- & Touch-Effekte: Das PS3-Logo schwebt in 3D; Karten und Buttons reagieren auf Berührung mit einem elastischen 3D-Push-Bounce Effekt.
+• Matrix Hacker Rain: Binärer Code (100110...) fließt im Hintergrund durch und passt sich automatisch deiner gewählten Themenfarbe an.
+🌐 5. Vollständige Mehrsprachigkeit (DE / EN / FR)
+• Komplette Übersetzung aller Menüs, Buttons, Dialoge und des Info-Lauftextes in Deutsch (DE), Englisch (EN) und Französisch (FR).
+🛡️ 6. Bugfixes & Play Protect Optimierungen
+• Update-Prüfung gefixt: Der Update-Button ruft die Server-Version nun fehlerfrei ab.
+• Sicherheits-Optimierung: Unnötige Standort-Berechtigungen wurden entfernt und Speicherrechte optimiert, um Falschmeldungen von Google Play Protect zu verhindern.

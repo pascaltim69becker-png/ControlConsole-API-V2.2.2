@@ -18,3 +18,4 @@
 🛡️ 6. Bugfixes & Play Protect Optimierungen
 • Update-Prüfung gefixt: Der Update-Button ruft die Server-Version nun fehlerfrei ab.
 • Sicherheits-Optimierung: Unnötige Standort-Berechtigungen wurden entfernt und Speicherrechte optimiert, um Falschmeldungen von Google Play Protect zu verhindern.
+• MUSIK Button hinzugefügt AN - AUS
